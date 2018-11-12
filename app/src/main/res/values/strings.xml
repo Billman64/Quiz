@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="q1">Which powerup(s) double Mario\'s size?</string>
+    <string name="choice1a">Fire Flower</string>
+    <string name="choice1b">Mushroom</string>
+    <string name="choice1c">Star</string>
+    <string name="choice1d">A ton of pasta</string>
+
+    <string name="q2">What is the name of Mario\'s creator?</string>
+    <string name="choice2a">Hiroshi Yamauchi</string>
+    <string name="choice2b">Shigeru Miyamoto</string>
+    <string name="choice2c">Gunpei Yokoi</string>
+    <string name="choice2d">Walt Disney</string>
+    <string name="answer2">b</string>
+
+    <string name="q3">What was Mario originally called in his debut game, Donkey Kong?</string>
+    <string name="answer3">Jump Man</string>
+
+    <string name="q4">What Japan-only video game was Super Mario Bros. 2 adopted from?</string>
+    <string name="choice4a">Zelda Densetsu</string>
+    <string name="choice4b">Super Mario Bros. 2</string>
+    <string name="choice4c">Famicom Disc Wars</string>
+    <string name="choice4d">Doki Doki Panic</string>
+    <string name="answer4">d</string>
+
+    <string name="button">Submit your answers</string>
+    <string name="perfect">Congrats! You have a perfect score!</string>
+    <string name="missedOne">Almost! You\'ve got them all right except for just one.</string>
+    <string name="badScore">You didn\'t pass. Better luck next time!</string>
+    <string name="noneRight">Ouch. You got them all wrong! Maybe Pac-Man is more your game.</string>
+    <string name="yourScore">Your score<xliff>:</xliff></string>
+</resources>
